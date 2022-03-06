@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1646592114 source:c:\users\amino\documents\asdrevision\tp5asd\abonne.c
+	<stdio.h>
+	<stdlib.h>
+	"Abonne.h"
+	<string.h>
+
+1646509661 source:c:\users\amino\documents\asdrevision\tp5asd\book.c
+	<stdio.h>
+	<stdlib.h>
+	"Book.h"
+
+1646507256 source:c:\users\amino\documents\asdrevision\tp5asd\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Abonne.h"
+
+1646592179 c:\users\amino\documents\asdrevision\tp5asd\abonne.h
+	"Book.h"
+
+1646510800 c:\users\amino\documents\asdrevision\tp5asd\book.h
+
